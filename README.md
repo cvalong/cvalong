@@ -10,9 +10,8 @@
 
 - 🔭 I’m currently working on making a dev blog!
 - 🌱 I’m currently learning game dev with Godot
-- 🤔 I’m looking for help with existing
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm training for a marathon!
+- ⚡ Fun fact: I finished a marathon!
 - I'm also building out this github profile readme too!
 
 <!--
